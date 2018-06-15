@@ -1,0 +1,32 @@
+body{
+  background-color:rgba(245,0,23,0.5);
+}
+
+h1 {
+  color: white;
+  font-family: "Avenir next";
+  font-weight: 300;
+  font-size: 100px;
+  text-transform: uppercase;
+}
+
+ol {
+  color: white;
+  text-transform: capitalize;
+}
+
+ul {
+  color: white;
+  text-transform: capitalize;
+}
+
+.box {
+  background-color: rgba(0,200,0,0.7);
+  width: 60%;
+  margin: auto;
+}
+
+#mainbox {
+  width: 125px;
+  border-radius: 20px;
+}
